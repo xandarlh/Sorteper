@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\SortePer\SortePer\bin\Debug\SortePer.exe.config
+C:\Users\alex303a\source\repos\SortePer\SortePer\bin\Debug\SortePer.exe
+C:\Users\alex303a\source\repos\SortePer\SortePer\bin\Debug\SortePer.pdb
+C:\Users\alex303a\source\repos\SortePer\SortePer\obj\Debug\SortePer.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\SortePer\SortePer\obj\Debug\SortePer.exe
+C:\Users\alex303a\source\repos\SortePer\SortePer\obj\Debug\SortePer.pdb
